@@ -24,5 +24,8 @@ console.log(a);
 var value=true;
 console.log(value);
 
+//BigInt - used to store the big int that can not handle ny normal number  datatype
+let 
+
 
 // Non-Primitive Datatype-mutable{value can change directly} their are 2 datatypes
